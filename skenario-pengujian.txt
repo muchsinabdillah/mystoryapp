@@ -1,0 +1,83 @@
+
+SKENARIO UNIT TESTING :
+
+MainViewModelTest
+
+1. when login message should return the right data and not null
+-  memastikan data yang didapat tidak null
+-  memastikan data yang didapat sesuai dengan data dugaan
+
+2. when userlogin should return the right login user data and not null
+-  memastikan data yang didapat tidak null
+-  memastikan data yang didapat sesuai dengan data dugaan
+
+3. verify login function is working
+-  memastikan fungsi login bekerja sebagaimana mestinya
+-  memastikan data yang didapat setelah memanggil fungsi ini tidak null
+-  memastikan data yang didapat setelah memanggil fungsi ini sesuai dengan data dugaan
+
+4. when Story load message should return the right data and not null
+-  memastikan data yang didapat tidak null
+-  memastikan data yang didapat sesuai dengan data dugaan
+
+
+GetStoryAllViewModelTest
+
+1. when Get Story Should Not Null and working
+-  memastikan fungsi stories bekerja sebagaimana mestinya
+-  memastikan data yang didapat tidak null
+-  memastikan jumlah data sesuai dengan yang diharapkan
+-  memastikan data yang didapat sesuai dengan data dugaan
+
+RegisterViewModelTest
+
+1. when message should return the right data and not null
+-  memastikan data yang didapat tidak null
+-  memastikan data yang didapat sesuai dengan data dugaan
+
+2. verify register function is working
+-  memastikan fungsi register bekerja sebagaimana mestinya
+-  memastikan data yang didapat setelah memanggil fungsi ini tidak null
+-  memastikan data yang didapat setelah memanggil fungsi ini sesuai dengan data dugaan
+
+AddStoryViewModelTest
+
+1. when message should return the right data and not null
+-  memastikan data yang didapat tidak null
+-  memastikan data yang didapat sesuai dengan data dugaan
+
+2. verify upload function is working
+-  memastikan fungsi upload bekerja sebagaimana mestinya
+-  memastikan data yang didapat setelah memanggil fungsi ini tidak null
+-  memastikan data yang didapat setelah memanggil fungsi ini sesuai dengan data dugaan
+
+
+RemoteRepositoryTest
+
+1. when datastory should return the right data and not null
+-  memastikan data yang didapat tidak null
+-  memastikan data yang didapat sesuai dengam data dugaan
+-  memastikan jumlah data yang didapat sesuai dengan data dugaan
+
+2. when message should return the right data and not null
+-  memastikan data yang didapat tidak null
+-  memastikan data yang didapat sesuai dengan data dugaan
+
+3. when userlogin should return the right login response and not null
+-  memastikan data yang didapat tidak null
+-  memastikan data yang didapat sesuai dengam data dugaan
+
+4. verify register function is working
+-  memastikan fungsi register bekerja sebagaimana mestinya
+-  memastikan message yang didapat setelah memanggil fungsi ini tidak null
+-  memastikan message yang didapat setelah memanggil fungsi ini sesuai dengan message dugaan
+
+5. verify login function is working
+-  memastikan fungsi login bekerja sebagaimana mestinya
+-  memastikan data yang didapat setelah memanggil fungsi ini tidak null
+-  memastikan data yang didapat setelah memanggil fungsi ini sesuai dengan data dugaan
+
+6. verify upload function is working
+-  memastikan fungsi upload bekerja sebagaimana mestinya
+-  memastikan message yang didapat setelah memanggil fungsi ini tidak null
+-  memastikan message yang didapat sesuai dengan message dugaan

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="descriptionlogin">Login</string>
+    <string name="nama">Name</string>
+    <string name="descriptionsignup">Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="descriptionwelcome">Welcome to myStoy App. Let us Share your Story experience here.</string>
+    <string name="selamatdatang">Welcome back,</string>
+    <string name="namauser">%1$s</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galery</string>
+    <string name="upload">Upload</string>
+    <string name="descriptionaddcamera">What do You Feel ?</string>
+    <string name="send_story">SEND STORY</string>
+    <string name="name_user">Mochamad Muchsin Abdillah</string>
+    <string name="date_story">01/01/2022</string>
+    <string name="isi_deskripsi">Please enter a description.</string>
+
+    <string name="warningemail">Enter Email Please.</string>
+    <string name="warningnama">Enter Your Name Please.</string>
+    <string name="warningpassword">Enter Password Please.</string>
+    <string name="warningemailtidakvalid">Email Not Valid. Please Cek Your Email.</string>
+    <string name="warningpasswordkurang">You Should entered min 6 character for Password.</string>
+    <string name="pesandaftar">Message</string>
+    <string name="loginberhasil">Login Successfully !</string>
+    <string name="ok">OK</string>
+    <string name="pesanberhasildaftar">Sign Up Successfully. Please Login for Share Your Story.</string>
+    <string name="datakosong">EMPTY</string>
+    <string name="sendingdata">Please Wait…</string>
+    <string name="formatemail">Format Email tidak Valid.</string>
+    <string name="kesalahanaplikasi">An error occurred in the application.</string>
+    <string name="keluarapliksi">Do you want to Sign Out the Application ?</string>
+    <string name="YA">YES</string>
+    <string name="TIDAK">NO</string>
+    <string name="memuatdata">Loading…</string>
+    <string name="gagalkeluar">Exit Application cancelled.</string>
+    <string name="gagalmunculkamera">Failed to load camera.</string>
+    <string name="gagalambilgambar">Failed to take Image.</string>
+    <string name="warningberkas">Please enter the image file first.</string>
+    <string name="deskripsiphoto">This is an image description.</string>
+    <string name="pilihphoto">Choose a Picture</string>
+    <string name="permisioncamera">Did not get permission.</string>
+    <string name="copyright">2022 @Diel</string>
+    <string name="detailstory">Detail Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="timeout">Time Out</string>
+    <string name="error_message">Login Error</string>
+    <string name="email_taken">Email is Taken</string>
+    <string name="pesansuksesupload">Story Upload Successfully.</string>
+    <string name="warningdescription">Please Enter Description.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/showMap"
+        android:title="Show Map"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/setting"
+        android:title="Setting Bahasa"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/addnewstory"
+        android:title="Add New Story"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"
+        app:showAsAction="never" />
+</menu>
