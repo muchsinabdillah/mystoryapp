@@ -41,7 +41,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDDMKAfcH-fThp9taDAta8dKHXaOadLXp4" />
+            android:value="apikey" />
 
         <activity
             android:name=".ui.camera.CameraActivity"
